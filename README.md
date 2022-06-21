@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, fellow &lt coders </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/&gt! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center"><b>Hello, fellow &lt coders &gt! </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <br>
 <a href="https://www.linkedin.com/in/lucky-kumar-46b042176/">
   <img align="center" alt="Lucky @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,7 +11,7 @@
 <p align="center">
   <em>
     I am Lucky Kumar, a striving Software Engineer who likes to Build and Dig stuff.  <br><br>
-    A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Crazy Programmer Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in exploring the tech world passionately.&nbsp.
+    A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Crazy Programmer Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="36px">&nbsp,<br>who is <b>interested</b> in exploring the tech world passionately.&nbsp.
   </em> 
   <br><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
@@ -26,4 +26,4 @@
   
   <p align="center">
   <em>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;Fun-Fact: I am Happy to bud in this tech world and we all can come together walking and exploring this beautiful world </em></p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;Fun-Fact: I am Happy to bud in this tech world and we all can come together walking and exploring this beautiful world </em></p>
